@@ -27,20 +27,3 @@ O problema é que, se fizermos uma análise de aglomerados com 30 features, o re
 Assim como nos outros projetos, bancos, telefônicas, varejo, qualquer empresa que presta algum tipo de serviços e possui informações sobre seus clientes pode se beneficiar de análise de questionários de clientes e redução em componentes principais conforme iremos construir nesse projeto.
 
 ps: esse estudo de caso real (Grosse Pointe Associates and The “Microvan”) está disponível no excelente livro "Modern Marketing Research: Concepts, Methods, and Cases" ISBN 1133188966
-
-
-## Instalação das dependências
-
-Para instalar as dependências do projeto, certifique-se de ter o Python instalado. Em seguida, execute o seguinte comando no terminal ou prompt de comando: pip install -r requirements.txt
-
-Este comando irá instalar todas as bibliotecas e suas versões especificadas no arquivo `requirements.txt`, garantindo que o ambiente esteja configurado corretamente.
-
-## Executando o projeto
-
-Para executar o projeto, siga os passos abaixo:
-
-1. Clone este repositório para o seu ambiente local.
-2. Navegue para o diretório do projeto no terminal ou prompt de comando.
-3. Certifique-se de que as dependências estejam instaladas (consulte a seção "Instalação das dependências" acima).
-4. Execute o seguinte comando: python main.py
-5. Isso iniciará o aplicativo e você poderá interagir com ele através da interface do usuário.
